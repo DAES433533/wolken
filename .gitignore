@@ -1,0 +1,6 @@
+.*
+*.png
+*.jpg
+cle_superbomb/*
+!.gitignore
+.ipynb_checkpoints
