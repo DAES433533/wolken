@@ -1,0 +1,15 @@
+name = Cleveland Superbomb 1978 SLP/500 Z
+description = {{ ERA-5 January 26 1978 ("Cleveland Superbomb") }}
+pip = ../labels/colorbar.png
+pipheight = 10
+pipvertical = -35
+label = ../labels/labels.txt
+layer = Grids
+layerdata = ../2048
+firstdwell = 2000
+lastdwell = 3000
+fps = 8
+zrotationenable = 1
+zfps = 30
+subcategory = ERA5
+Creator = Firstname Lastname
